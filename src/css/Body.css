@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Title;
+    src: url(19051.ttf);
+}
+@font-face {
+    font-family: Topic;
+    src: url(18894.otf);
+}
+
+.main{
+    margin-top: 6vh;
+    height: 94vh;
+}
+
+.main_bg{
+    height: 94vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.main_pic{
+    position: absolute;
+}
+
+.about{
+    margin-top: 0;
+}
+
+.float_left {
+    float: left;
+    width: 75%;
+    padding-right: 8vw;
+}
+
+.float_right {
+    float: right;
+    width: 25%;
+}
+
+.about_img{
+    object-fit: scale-down;
+}
+
+.about_bg{
+    height: 100%;
+}
+
+.about_margin1{
+    padding: 0vw 5vw 2.5vw 5vw;
+}
+
+.about_margin2{
+    height: 100%;
+    width: 100%;
+    padding: 2.5vw 5vw 5vw 5vw;
+}
+
+.about_text{
+    height: 100%;
+    font-size: 100vh;
+    font-family: Topic;
+}
+
+.title{
+    font-family: Title;
+    padding-left: 5vw;
+}
+
+.title_text {
+    height: 100%;
+}
