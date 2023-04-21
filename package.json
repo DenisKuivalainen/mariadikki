@@ -14,7 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-image-gallery": "^1.0.8",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-scrollable-anchor": "^0.6.1",
     "use-fit-text": "^2.3.0"
   },
